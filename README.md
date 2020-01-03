@@ -21,17 +21,17 @@ Details of the game:
 7. The app shows the number of games the player wins and loses.
 
 
- ![Page Screen](/assets/images/images/ScreenPage1.PNG)
+ ![Page Screen](/assets/images/ScreenPage1.PNG)
  
  
- ![Page Screen](/assets/images/images/ScreenPage2.PNG)
+ ![Page Screen](/assets/images/ScreenPage2.PNG)
 
 ________________________________________________________________________________________________
 If you want to see the code of this application, follow the steps below:
 
 ## Quick Start
 
-1.  Clone the repo - Git clone `https://github.com/joswald123/My-Trivia-Game.git`
+1.  Clone the repo - Git clone `https://github.com/joswald123/Crystal-Collector-Game.git`
 2.  Go to your project folder.
 3.  Open the index.Html tab and with a right click open it in a default browser.
 
